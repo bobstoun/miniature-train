@@ -1,0 +1,15 @@
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\bin\Debug\net7.0\Exsample003.exe
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\bin\Debug\net7.0\Exsample003.deps.json
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\bin\Debug\net7.0\Exsample003.runtimeconfig.json
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\bin\Debug\net7.0\Exsample003.dll
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\bin\Debug\net7.0\Exsample003.pdb
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.csproj.AssemblyReference.cache
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.AssemblyInfoInputs.cache
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.AssemblyInfo.cs
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.csproj.CoreCompileInputs.cache
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.dll
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\refint\Exsample003.dll
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.pdb
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\Exsample003.genruntimeconfig.cache
+C:\Users\iTMaster\Desktop\Examples\.vscode\EXSAMPLES001\Exsample003\obj\Debug\net7.0\ref\Exsample003.dll
