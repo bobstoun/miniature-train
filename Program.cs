@@ -48,23 +48,23 @@
 
 // Задача 38 задайте массив вешественных чисел. Найдите разницу между максимальным и минимальным элиментом массива
 
-void LUtick(int[] array)
-{
-  for(int i=0;i<array.Length;i++)
-  array[i] = new Random().Next(-12,123);
-}
+//void LUtick(int[] array)
+//{
+  //for(int i=0;i<array.Length;i++)
+  //array[i] = new Random().Next(-12,123);
+//}
 
 
-void  leo(int[] array)
-{
-  
-}
+//void  leo(int[] array)
+//{
+  //for(int i=0;i<array.Length;i++)
+//}
 
 
-Console.Clear();
-Console.Write("ведите число ");
-int v = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[v];
-LUtick(array);
-Console.WriteLine($"{string.Join(" ", array)}");
-leo(array);
+//Console.Clear();
+//Console.Write("ведите число ");
+//int v = Convert.ToInt32(Console.ReadLine());
+//int[] array = new int[v];
+//LUtick(array);
+//Console.WriteLine($"{string.Join(" ", array)}");
+//leo(array);
